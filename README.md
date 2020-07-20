@@ -20,7 +20,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ]SPlit the bill among people and  show individual amount owed
+- [ ]Split the bill among people and  show individual amount owed
 
 ## Video Walkthrough 
 
